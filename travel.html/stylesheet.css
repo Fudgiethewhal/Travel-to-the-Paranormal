@@ -1,0 +1,14 @@
+﻿a{
+    margin: 10px;
+    border-radius: 50%;
+    box-sizing: border-box;
+    width: 80px;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    transition: 0.3s;
+    font-size: 2rem;
+    color: var(#9663ef);
+}
